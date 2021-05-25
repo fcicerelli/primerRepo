@@ -1,1 +1,1 @@
-let usuarios = ["jose","juan"];
+let usuarios = ["jose","juan","pedro"];
